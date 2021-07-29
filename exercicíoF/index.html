@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>exercicio</title>
+</head>
+<body>
+  <h1>exercicioF</h1>
+  <script type="text/javascript">
+  var carPrice = 35000;
+  var entraceValue = 0;
+  var quota = 36;
+  var financing = carPrice - entraceValue;
+  var tax = 0.05;
+  console.log('valor financiamento: R$' + financing);
+  console.log('valor de juros: R$' + (financing * tax));
+  console.log('quantidade de parcelas' + quota);
+  console.log('valor da parcela: R$' + (((financing * tax) + financing) / quota));
+  console.log('valor do carro: R$' + ((financing * tax) + financing) + entraceValue);
+  </script>
+</body>
+</html>
