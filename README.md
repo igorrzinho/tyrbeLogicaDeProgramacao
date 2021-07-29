@@ -46,3 +46,11 @@ Exemplo:
 - Preço do produto: R$80
 - À Vista: R$72
 - 4x de: R$23
+
+f) Crie um programa para gerenciar as contas
+de um financiamento de veículo. A pessoa que
+quer fazer o financiamento precisa informar
+o valor total do carro, o valor da entrada a ser
+dada e a quantidade de parcelas que ela deseja
+pagar. A loja em questão usa uma taxa de juros
+fixa de 5% sobre o valor do financiamento.
